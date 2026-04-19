@@ -24,10 +24,8 @@ This project demonstrates how to dynamically create and manipulate card elements
 
 project-folder/
 ├── index.html
-├── style.css
-├── script.js
-├── screenshots/
-│     └── output.png
+├── output/
+│     └── screensort.png
 
 
  ## Screenshot
