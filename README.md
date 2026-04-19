@@ -23,7 +23,7 @@ This project demonstrates how to dynamically create and manipulate card elements
 ## Project Structure
 
 project-folder/
-├── index.html
+├── caed.html
 ├── output/
 │     └── screensort.png
 
@@ -47,6 +47,3 @@ project-folder/
 - Add delete/edit functionality
 - Improve UI design
 - Add multiple card layouts
-
-
-Give a ⭐ if you like this project!
