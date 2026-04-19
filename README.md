@@ -32,7 +32,7 @@ project-folder/
 
  ## Screenshot
 
-!["DOM Card Output"] (./output/screensort.png)
+!["DOM Card Output"](./screensort.png)
 
 
 ## How to Run
